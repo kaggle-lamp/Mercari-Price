@@ -1,0 +1,6 @@
+任务一：
+	https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling
+	把这个排名最高的kernel实现一遍（可以照着抄），注释什么的用中文就好。
+	最好提出自己的见解。
+	
+刚开始，任务只有一个。

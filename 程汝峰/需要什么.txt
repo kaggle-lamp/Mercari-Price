@@ -1,0 +1,8 @@
+python
+
+jupyter
+
+github 注册
+git工具 ，pull,push
+
+kaggle 注册
