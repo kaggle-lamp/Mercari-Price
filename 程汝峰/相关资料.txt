@@ -1,0 +1,14 @@
+从SNE到t-SNE再到LargeVis
+http://bindog.github.io/blog/2016/06/04/from-sne-to-tsne-to-largevis/
+
+PCA和SVD区别和联系
+http://blog.csdn.net/wangjian1204/article/details/50642732
+
+SVD 降维体现在什么地方？
+https://www.zhihu.com/question/34143886
+
+从item-base到svd再到rbm，多种Collaborative Filtering(协同过滤算法)从原理到实现
+http://blog.csdn.net/dark_scope/article/details/17228643
+
+
+
