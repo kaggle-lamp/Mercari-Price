@@ -20,6 +20,6 @@ https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 当然，深度学习（神经网络，深度决策树还没有测试）也可以拿来用。
 
-最后要想更多的提高精度，防止过拟合等等，需要调参，还有stacking.
+最后要想更多的提高精度，防止过拟合等等，需要调参，还有stacking.相关网址：http://blog.csdn.net/u014356002/article/details/54376138
 
 
